@@ -5,4 +5,4 @@ const c = '1fasdfasdfasdfasdfasdfasdfasd';
 function sum() {
   return a + b + c;
 }
-sum()
+sum();
